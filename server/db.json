@@ -1,10 +1,5 @@
 {
-  "new_products": [
-    {
-      "id": "53d2",
-      "title": "a"
-    }
-  ],
+  "new_products": [],
   "discount_product": [
     {
       "id": "0ee9",
@@ -25,12 +20,7 @@
       "title": "recomended 2"
     }
   ],
-  "input": [
-    {
-      "id": "3860",
-      "title": "a"
-    }
-  ],
+  "input": [],
   "category_names": [
     {
       "id": "1",
