@@ -1,0 +1,51 @@
+{
+  "new_products": [
+    {
+      "id": "53d2",
+      "title": "a"
+    }
+  ],
+  "discount_product": [
+    {
+      "id": "0ee9",
+      "title": "discount_product 1"
+    },
+    {
+      "id": "0e56",
+      "title": "discount_product 2"
+    }
+  ],
+  "recomended": [
+    {
+      "id": "0e56",
+      "title": "recomended 1"
+    },
+    {
+      "id": "ewifw",
+      "title": "recomended 2"
+    }
+  ],
+  "input": [
+    {
+      "id": "3860",
+      "title": "a"
+    }
+  ],
+  "category_names": [
+    {
+      "id": "1",
+      "name": "New Products",
+      "path": "/new_products"
+    },
+    {
+      "id": "2",
+      "name": "Discount Products",
+      "path": "/discount_product"
+    },
+    {
+      "id": "3",
+      "name": "Recomended",
+      "path": "/recomended"
+    }
+  ]
+}
